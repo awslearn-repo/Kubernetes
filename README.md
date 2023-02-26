@@ -19,7 +19,7 @@ No artifacts needed.
 
 https://youtu.be/fPhzVOJA9qI
 
-Use create-pod.yaml 
+Use create-pod-demo.yaml 
 
 #Video 4: What is ReplicaSet ? Create ReplicaSet !!
 
