@@ -19,31 +19,31 @@ No artifacts needed.
 
 https://youtu.be/fPhzVOJA9qI
 
-Use create-pod-demo.yaml 
+Use create-pod-demo.yml 
 
 #Video 4: What is ReplicaSet ? Create ReplicaSet !!
 
 https://youtu.be/j_bwzFO-_FI
 
-Use create-pod.yaml, Replicaset.yaml 
+Use create-pod.yml, Replicaset.yml 
 
 #Video 5: Create Deployment (Declarative & Imperative)
 
 https://youtu.be/BcP6tIxWGNo
 
-Use Deployment.yaml
+Use Deployment.yml
 
 #Video 6: Kubernetes POD, ReplicaSet and Deployment -- Relationship Explained with the Demo
 
 https://youtu.be/DGA32D1MeOk
 
-Use create-pod.yaml, Replicaset.yaml & Deployment.yaml
+Use create-pod.yml, Replicaset.yml & Deployment.yml
 
 #Video 7: How Taints & Tolerations work together?
 
 https://youtu.be/EPDLfbRwOcY
 
-Use create-pod.yaml, create-pod-toleration-NoSchedule.yaml, & create-pod-toleration-NoExecute.yaml
+Use create-pod.yml, create-pod-toleration-NoSchedule.yml, & create-pod-toleration-NoExecute.yml
 
 
 
