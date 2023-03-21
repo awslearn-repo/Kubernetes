@@ -45,6 +45,12 @@ https://youtu.be/EPDLfbRwOcY
 
 Use create-pod.yml, create-pod-toleration-NoSchedule.yml, & create-pod-toleration-NoExecute.yml
 
+#Video 8: Kubernetes Node Selector and Node Affinity - Decides POD placement
+
+https://youtu.be/tw5nm5XQmyg
+
+Use create-pod-nodeselector.yml, create-pod-affinity-required.yml, & create-pod-affinity-preferred.yaml
+
 
 
 
