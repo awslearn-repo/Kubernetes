@@ -51,6 +51,12 @@ https://youtu.be/tw5nm5XQmyg
 
 Use create-pod-nodeselector.yml, create-pod-affinity-required.yml, & create-pod-affinity-preferred.yaml
 
+#Video 9: Kubernetes Resource Management; REQUESTS & LIMITS
+
+https://youtu.be/Tl2rXw6GNbc
+
+Use create-pod-resource-management.yml
+
 
 
 
